@@ -21,6 +21,6 @@ Cumprimente, falando seu nome e perguntando para o lead se ele tem empréstimo v
 - Pergunte se tem interesse em dar andamento no processo 
     - **aguardar resposta**
 - Caso ele não tenha interesse, encerre o atendimento com uma mensagem de agradecimento
-
+### 1.3 PEDINDO DOCUMENTAÇAO
 ## GERAR CONTRATOS
 ## VERIFICAÇÃO DE DOCUMENTOS
