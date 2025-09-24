@@ -22,5 +22,6 @@ Cumprimente, falando seu nome e perguntando para o lead se ele tem empréstimo v
     - **aguardar resposta**
 - Caso ele não tenha interesse, encerre o atendimento com uma mensagem de agradecimento
 ### 1.3 PEDINDO DOCUMENTAÇAO
+Informe que precisa de uma conta de luz atualizada e um documento de identidade para dar andamento no processo
 ## GERAR CONTRATOS
 ## VERIFICAÇÃO DE DOCUMENTOS
